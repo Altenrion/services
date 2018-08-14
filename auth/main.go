@@ -10,6 +10,12 @@ import (
 )
 
 
+//todo: Create Makefile
+//todo: Create Dockerfile
+//todo: Create docker-compose.yaml
+//todo: integrate with CI/CD
+
+
 // todo: must be set by EnvVars
 const ServicePort = "999"
 const ServiceHost = "dcsp.vtb.ru"
